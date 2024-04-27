@@ -2,7 +2,7 @@
 
 ## Description
 
-Mon premier script batch qui simule un antivirus
+Mon premier script batch qui simule un antivirus. J'ai créé ce script dans mon temps libre pour me former sur Batch. Ceci me permit d'apprendre Batch de manière ludique et me préparer au PowerShell.
 
 ## Captures d'écran
 
